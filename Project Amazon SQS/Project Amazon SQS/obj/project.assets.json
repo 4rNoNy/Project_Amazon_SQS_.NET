@@ -92,11 +92,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João Paulo\\Desktop\\Amazon SQS .Net\\Project Amazon SQS\\Project Amazon SQS\\Project Amazon SQS.csproj",
+      "projectUniqueName": "C:\\gitProjetos\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\Project Amazon SQS\\Project Amazon SQS.csproj",
       "projectName": "Project Amazon SQS",
-      "projectPath": "C:\\Users\\João Paulo\\Desktop\\Amazon SQS .Net\\Project Amazon SQS\\Project Amazon SQS\\Project Amazon SQS.csproj",
+      "projectPath": "C:\\gitProjetos\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\Project Amazon SQS\\Project Amazon SQS.csproj",
       "packagesPath": "C:\\Users\\João Paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João Paulo\\Desktop\\Amazon SQS .Net\\Project Amazon SQS\\Project Amazon SQS\\obj\\",
+      "outputPath": "C:\\gitProjetos\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\Project Amazon SQS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

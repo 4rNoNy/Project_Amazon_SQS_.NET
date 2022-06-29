@@ -6,4 +6,8 @@
     <RootNamespace>Project_Amazon_SQS</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.SQS" Version="3.7.2.72" />
+  </ItemGroup>
+
 </Project>

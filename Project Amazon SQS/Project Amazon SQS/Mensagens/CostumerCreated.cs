@@ -7,9 +7,12 @@ using System.Threading.Tasks;
 
 namespace Project_Amazon_SQS.Mensagens
 {
-    public class CustomerDeleted
+    public class CostumerCreated
     {
         [JsonPropertyName("id")]
         public int Id { get; init; }
+
+        [JsonPropertyName("fullName")]
+        public string FullName { get; init; } = default!;
     }
 }
