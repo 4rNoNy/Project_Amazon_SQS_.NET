@@ -85,27 +85,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\João Paulo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\SQS.Envia\\SQS.Envia.csproj",
+      "projectUniqueName": "C:\\gitProjetos\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\SQS.Envia\\SQS.Envia.csproj",
       "projectName": "SQS.Envia",
-      "projectPath": "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\SQS.Envia\\SQS.Envia.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\SQS.Envia\\obj\\",
+      "projectPath": "C:\\gitProjetos\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\SQS.Envia\\SQS.Envia.csproj",
+      "packagesPath": "C:\\Users\\João Paulo\\.nuget\\packages\\",
+      "outputPath": "C:\\gitProjetos\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\SQS.Envia\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\João Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/tfs-escola-web/escolaweb/_packaging/escolawebgoogledrive-nuget/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -143,7 +153,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
