@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Project Amazon SQS")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SQS.Recebe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Project Amazon SQS")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Project Amazon SQS")]
+[assembly: System.Reflection.AssemblyProductAttribute("SQS.Recebe")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SQS.Recebe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

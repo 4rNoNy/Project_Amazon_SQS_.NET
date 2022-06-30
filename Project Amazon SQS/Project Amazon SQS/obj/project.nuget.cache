@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AmlVqYwUbyu7GWPF/DNha/EYdHc7UXGyhR0W71kO4GMPeTIKZrEqhAAsl1VRoxnQ2FvAaqYtQVDZrY/vWrowAw==",
+  "dgSpecHash": "a2WAflIddoyIdYXFHYwTSt4j6EeE8o68jy7Rp4dh2KRBzV09eCJd292mzWN/wD6nJEZ/OeC+CFD7iLyafSX+ig==",
   "success": true,
-  "projectFilePath": "C:\\gitProjetos\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\Project Amazon SQS\\Project Amazon SQS.csproj",
+  "projectFilePath": "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\Project Amazon SQS\\Project Amazon SQS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\João Paulo\\.nuget\\packages\\awssdk.core\\3.7.12.3\\awssdk.core.3.7.12.3.nupkg.sha512",
-    "C:\\Users\\João Paulo\\.nuget\\packages\\awssdk.sqs\\3.7.2.72\\awssdk.sqs.3.7.2.72.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\awssdk.core\\3.7.12.3\\awssdk.core.3.7.12.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\awssdk.sqs\\3.7.2.72\\awssdk.sqs.3.7.2.72.nupkg.sha512"
   ],
   "logs": []
 }

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Amazon SQS", "Project Amazon SQS\Project Amazon SQS.csproj", "{31DDB160-702C-4842-B91A-A3CC6701F5EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQS.Envia", "SQS.Envia\SQS.Envia.csproj", "{E0D2E115-4A8F-46C3-A863-B5A6F609B095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQS.Recebe", "SQS.Recebe\SQS.Recebe.csproj", "{8F4F7E6F-92F8-4810-A741-AB66D7FA9EC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{31DDB160-702C-4842-B91A-A3CC6701F5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31DDB160-702C-4842-B91A-A3CC6701F5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31DDB160-702C-4842-B91A-A3CC6701F5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31DDB160-702C-4842-B91A-A3CC6701F5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0D2E115-4A8F-46C3-A863-B5A6F609B095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D2E115-4A8F-46C3-A863-B5A6F609B095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D2E115-4A8F-46C3-A863-B5A6F609B095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D2E115-4A8F-46C3-A863-B5A6F609B095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F4F7E6F-92F8-4810-A741-AB66D7FA9EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4F7E6F-92F8-4810-A741-AB66D7FA9EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4F7E6F-92F8-4810-A741-AB66D7FA9EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4F7E6F-92F8-4810-A741-AB66D7FA9EC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

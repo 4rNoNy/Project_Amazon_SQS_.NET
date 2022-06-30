@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\Project Amazon SQS\\Project Amazon SQS.csproj": {}
+    "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\SQS.Recebe\\SQS.Recebe.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\Project Amazon SQS\\Project Amazon SQS.csproj": {
+    "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\SQS.Recebe\\SQS.Recebe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\Project Amazon SQS\\Project Amazon SQS.csproj",
-        "projectName": "Project Amazon SQS",
-        "projectPath": "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\Project Amazon SQS\\Project Amazon SQS.csproj",
+        "projectUniqueName": "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\SQS.Recebe\\SQS.Recebe.csproj",
+        "projectName": "SQS.Recebe",
+        "projectPath": "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\SQS.Recebe\\SQS.Recebe.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\Project Amazon SQS\\obj\\",
+        "outputPath": "C:\\Projetos\\desafio-frontend\\Project_Amazon_SQS_.NET\\Project Amazon SQS\\SQS.Recebe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "AWSSDK.SQS": {
               "target": "Package",
-              "version": "[3.7.2.72, )"
+              "version": "[3.7.2.73, )"
             }
           },
           "imports": [
